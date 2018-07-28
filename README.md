@@ -2,6 +2,8 @@
 PHP OOP with MVC design pattern using MySQL Database.
 In this app, the user can maintain a school, college, university.
 
+![](https://mms.businesswire.com/bwapps/mediaserver/ViewMedia?mgid=362171&vid=5&download=1)
+
 ### Prerequisites
 
 ------------
